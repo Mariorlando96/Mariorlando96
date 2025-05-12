@@ -1,4 +1,3 @@
-# 💫 About Me:
 Hi 👋, I'm Mario Orol  <br>A passionate Full Stack Developer building modern, responsive web apps with React and Flask.
 ---
 I’m currently working on:

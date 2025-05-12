@@ -1,27 +1,28 @@
 Hi 👋, I'm Mario Orol  <br>A passionate Full Stack Developer building modern, responsive web apps with React and Flask.
 ---
-I’m currently working on:
-<br>- Open source projects that contribute to community-driven solutions  
-<br>- Improving and expanding my portfolio with full stack applications
-<br>
-<br>I’m looking to collaborate on:
-<br>- React or Flask-based projects that solve real-world problems
-<br>
-<br>I’m looking for help with:
-<br>- Deploying complex multi-service apps  
-<br>- Optimizing backend performance for scalability
-<br>
-<br>I’m currently learning:
-<br>- New technologies like TypeScript, Docker, and CI/CD with GitHub Actions
-<br>
-<br>Ask me about:
-<br>- JavaScript, Python, React, Flask, PostgreSQL, REST APIs
-<br>
-<br>All of my projects are available at:
-<br>- [GitHub – @Mariorlando96](https://github.com/Mariorlando96)
-<br>
 
+### 🚧 Currently Working On:
+- 🧑‍🤝‍🧑 Open source projects that contribute to community-driven solutions  
+- 🧰 Expanding my portfolio with full stack applications
+  
+### 🤝 Looking to Collaborate On:
+- ⚛️ React or 🐍 Flask-based projects that solve real-world problems
 
+### 🧠 Currently Learning:
+- 🧪 TypeScript  
+- 🐳 Docker  
+- 💡 Next.js
+- ☁️ AWS / GCP / Azure Basics – Learn how to host, scale, and manage apps on the cloud
+
+### 🛠️ Looking for Help With:
+- 🧩 Deploying complex multi-service apps  
+- 📈 Optimizing backend performance for scalability
+
+### 💬 Ask Me About:
+- 💻 JavaScript, Python, React, Flask, PostgreSQL, REST APIs
+
+### 📂 All of My Projects:
+- 🔗 [GitHub – @Mariorlando96](https://github.com/Mariorlando96)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mario-orol-5057951ba/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/MarioOrol) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mario.orol001@mymdc.net) 
